@@ -1,3 +1,13 @@
+.title{
+    display: none;
+}
+
 body{
     font-size: 13pt;
     }
+    
+<style>
+  .title{
+    display: none;
+  }
+</style>
