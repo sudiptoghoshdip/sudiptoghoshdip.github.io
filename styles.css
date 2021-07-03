@@ -11,16 +11,3 @@ body{
     display: none;
   }
 </style>
-
-.FixedHeightContainer
-{
-  float:right;
-  height: 250px;
-  width:250px; 
-  padding:3px; 
-}
-.Content
-{
-  height:420px;
-   overflow:auto;
-}
